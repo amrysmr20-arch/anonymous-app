@@ -64,7 +64,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
           BottomNavigationBarItem(icon: Icon(Icons.info_outline), label: 'Info'),
-          BottomNavigationBarItem(icon: Icon(Icons.whatsapp), label: 'Whatsapp'),
+          BottomNavigationBarItem(icon: Icon(Icons.chat), label: 'Whatsapp'),
           BottomNavigationBarItem(icon: Icon(Icons.notifications), label: 'Notif'),
           BottomNavigationBarItem(icon: Icon(Icons.build), label: 'Tools'),
         ],
